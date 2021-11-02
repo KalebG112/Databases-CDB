@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 01, 2021 at 05:31 AM
+-- Generation Time: Nov 02, 2021 at 02:29 AM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 7.4.23
 
@@ -147,6 +147,7 @@ CREATE TABLE `from_relation` (
 --
 
 INSERT INTO `from_relation` (`song_name`, `artist_name`, `album_name`) VALUES
+('7 Summers', 'Morgan Wallen', 'Dangerous: The Double Album'),
 ('Blinding Lights', 'The Weeknd', 'AfterHours'),
 ('Bohemian Rhapsody', 'Queen', 'A Night at the Opera'),
 ('deja vu', 'Olivia Rodrigo', 'SOUR'),
